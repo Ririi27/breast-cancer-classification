@@ -1,0 +1,6 @@
+Model,CV accuracy,Std
+Logistic Regression,0.978,0.0098
+SVM (RBF),0.9692,0.0146
+Random Forest,0.9648,0.0176
+Gradient Boosting,0.9516,0.0149
+Decision Tree,0.9165,0.0179
